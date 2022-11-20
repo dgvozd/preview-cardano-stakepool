@@ -1,6 +1,7 @@
 {
-"name": "Preview Denis Pool",
-"description": "There is a preview DT Pool",
+"name": "Preview Dev Team Pool",
+"description": "Dev Team Cardano stake pool. Helping grow the next generation of Haskell and Cardano developers.",
 "ticker": "DTP",
-"homepage": "https://myadapoolnamerocks.com"
+"homepage": "https://cardano.devteam.inc",
+"extended": "https://cardano.devteam.inc/metadata-extended.json"
 }
