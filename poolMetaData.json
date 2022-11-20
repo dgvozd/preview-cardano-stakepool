@@ -1,7 +1,7 @@
 {
 "name": "Preview Dev Team Pool",
 "description": "Dev Team Cardano stake pool. Helping grow the next generation of Haskell and Cardano developers.",
-"ticker": "DTP",
+"ticker": "DEVTM",
 "homepage": "https://cardano.devteam.inc",
 "extended": "https://cardano.devteam.inc/metadata-extended.json"
 }
